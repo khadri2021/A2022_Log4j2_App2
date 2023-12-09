@@ -1,0 +1,14 @@
+2023-11-30 09:07:39.025 [main] FATAL com.khadri.spring.rest.Main - Fatal logging
+2023-11-30 09:07:39.028 [main] ERROR com.khadri.spring.rest.Main - Error logging
+2023-11-30 09:07:39.029 [main] WARN  com.khadri.spring.rest.Main - Warn logging
+2023-11-30 09:07:39.029 [main] INFO  com.khadri.spring.rest.Main - Info logging
+2023-11-30 09:07:39.029 [main] DEBUG com.khadri.spring.rest.Main - Debug logging
+2023-11-30 09:07:39.029 [main] TRACE com.khadri.spring.rest.Main - Trace logging
+2023-11-30 09:12:35.788 [main] FATAL com.khadri.spring.rest.Main - Fatal logging
+2023-11-30 09:12:35.793 [main] ERROR com.khadri.spring.rest.Main - Error logging
+2023-11-30 09:12:35.794 [main] WARN  com.khadri.spring.rest.Main - Warn logging
+2023-11-30 09:12:35.794 [main] INFO  com.khadri.spring.rest.Main - Info logging
+2023-11-30 09:12:35.794 [main] DEBUG com.khadri.spring.rest.Main - Debug logging
+2023-11-30 09:12:35.794 [main] TRACE com.khadri.spring.rest.Main - Trace logging
+2023-11-30 09:12:35.801 [main] INFO  com.khadri.spring.rest.account.Account - Enter into createAccount method
+2023-11-30 09:12:35.802 [main] TRACE com.khadri.spring.rest.account.Account - Account number11222333
